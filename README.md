@@ -8,7 +8,7 @@
   
 - 🌱 I’m currently learning **TypeScript with Next.js**
 
-- 💬 You can ask me about **Web development | Web Design & Mobile Design**
+- 💬 You can ask me about **Web development & Web Design and Mobile Design**
 
 - 📫 You can contact me at **mummah571@gmail.com**
 </td>
